@@ -1,0 +1,5 @@
+{
+  "name": "Trình Chỉnh Sửa Ảnh Thẻ Chuyên Nghiệp",
+  "description": "Một ứng dụng web sử dụng AI để tự động chỉnh sửa ảnh chân dung thành ảnh thẻ chuyên nghiệp theo tiêu chuẩn, bao gồm thay đổi phông nền, trang phục và cải thiện chất lượng.",
+  "requestFramePermissions": []
+}
